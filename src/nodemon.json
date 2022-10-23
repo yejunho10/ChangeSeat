@@ -1,0 +1,4 @@
+{
+  "ignore": ["views/*"],
+  "exac": "node server.js"
+}
